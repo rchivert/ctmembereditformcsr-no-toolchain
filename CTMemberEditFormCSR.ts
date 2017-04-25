@@ -234,7 +234,7 @@ myCTMemberEditForm.readOnlyFieldTemplate = function(ctx)
 	var formCtx = SPClientTemplates.Utility.GetFormContextForCurrentField(ctx);
 	return formCtx.fieldValue[0].DisplayText;
 	}
-debugger;
+
 var overrideCtx= {};
 overrideCtx.Templates = {};	
 

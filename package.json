@@ -13,7 +13,5 @@
     "@types/knockout": "^3.4.40",
     "@types/sharepoint": "^2013.1.2"
   },
-  "dependencies": {
-    "es6-promise": "^4.1.0"
-  }
+  "dependencies": {}
 }
